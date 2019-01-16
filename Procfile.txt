@@ -1,2 +1,2 @@
-web: python server.p
+web: python server.py
 web: python fuel_calc.py
